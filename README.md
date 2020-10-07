@@ -1,6 +1,6 @@
 # democracy-and-development
 Python code for analyzing 40 years of democracy and social-economic data (stats and machine learning)
 
-I've always been interested in how democracy impacts development and I wrote a scientific/stats paper exploring this idea. Here's the abstract:
+I've always been interested in how democracy impacts development and I wrote a paper exploring this idea. Here's the abstract:
 
 There is an undisputed correlation between a country’s form of government and its social and economic growth. Unfortunately, government is difficult to measure categorically (e.g. simply Democracy vs Autocracy), and the relationship of causality between these factors is complex. Using multi-dimensional political and social-economic data, along with statistics and machine learning, this study analyzes 48 countries around the world over the past 40 years. Highly democratic countries were highly correlated with robust and forward-thinking economies. Countries with weaker democracies were less predictable. As well, the highest rates of social-economic growth were most likely to occur during periods of political stability rather than democratization. A stable autocracy like China can sustain high growth into 2030 while a country trending towards democracy can stagnate. Political stability may have a greater impact on growth than democracy.
