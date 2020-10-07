@@ -16,11 +16,7 @@ plt.style.use('seaborn-darkgrid')
 # plt.style.use('fivethirtyeight')
 pd.set_option('display.max_rows', None)
 
-connection = psycopg2.connect(
-    host="econvalues.cv6icouvimoi.us-east-1.rds.amazonaws.com",
-    database="postgres",
-    user="postgres",
-    password="rocduyPzTUfLeXEHwUhj")
+connection = psycopg2.connect()
 
 # interpolate indicator data
 df = pd.read_sql_query("""select * from indicators_a where year >= 1980 and year <= 2017""", con=connection)
