@@ -1,5 +1,5 @@
 # democracy-and-development
-Python code for analyzing 40 years of democracy and social-economic indicators (stats and machine learning)
+Python code for analyzing 40 years of democracy and social-economic data (stats and machine learning)
 
 I've always been interested in how democracy impacts development and I wrote a scientific/stats paper exploring this idea. Here's the abstract:
 
